@@ -11,8 +11,9 @@ Data collected by Facebook can be downloaded in HTML or JSON formats.
 
 * Head over to this [link](https://www.facebook.com/dyi/?referrer=yfi_settings)
 * Select all date as 'all my data' format as 'JSON'
-* Deselect and and check 'About You' (can select everything too but it will take alot of time to genarate file)
-* Click on create file and wait to get it 
+* Deselect and and check only 'About You' (can select everything too but it will take alot of time to genarate file)
+* Click on create file and wait to get it generated.
+* Download the zip file and extract it 
 
 
 
