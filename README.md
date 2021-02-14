@@ -7,6 +7,8 @@ Data collected by Facebook can be downloaded in HTML or JSON formats.
 
 ## How to use
 
+* Download your data from [facebook](https://www.facebook.com/dyi/?referrer=yfi_settings)
+
 
 
 
