@@ -7,7 +7,7 @@ Data collected by Facebook can be downloaded in HTML or JSON formats.
 
 ## Usage 
 
-##### Download your data from Facebook 
+#### Download your data from Facebook 
 
 
 
