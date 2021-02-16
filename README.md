@@ -1,5 +1,6 @@
 # Facebook Data Contacts Extractor
 
+Recover lost contacts from contacts data collected by Facebook 
 Extracts contacts as a vcf file from data downloaded from facebook.
 
 Facebook saves the phone contacts acquired from diffrent services like whatsapp and messenger.\
@@ -16,5 +17,7 @@ Data collected by Facebook can be downloaded in HTML or JSON formats.
 * Install the requirements by `pip install -r requirements.txt`
 * Run the script by `python contacts.py`
 * 'contacts.vcf' file will be genarated
+
+VCF file can be used to load the contacts back to any phone.
 
 
